@@ -1,0 +1,1 @@
+This repository contains class to create K-Means algorithm. Also it can compress images. To see how it works check out notebook.ipynb.
